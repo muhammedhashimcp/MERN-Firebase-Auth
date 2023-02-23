@@ -1,3 +1,4 @@
 server/config/panacea-firebase-serviceAccountKey.json
 server/node_modules
 .vscode
+node_modules
